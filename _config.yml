@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Testtesttest
 tagline:          'This will be something at some point'
 description:      'I'm gonna leave these <a href="http://jekyllrb.com" target="_blank">Links</a> here so I remember how to do them.
-url:              http://nsin7.github.io
+url:              http://github.com/poole/hyde
 baseurl:          /
 
 author:
